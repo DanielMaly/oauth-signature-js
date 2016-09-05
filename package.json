@@ -47,6 +47,6 @@
   },
   "dependencies": {
     "crypto-js": "~3.1.5",
-    "uri-js": "^2.1.1"
+    "uri-js": "github:DanielMaly/uri-js.git#6d1238789343ef9454b9c71808c5a04da89aedd2"
   }
 }
